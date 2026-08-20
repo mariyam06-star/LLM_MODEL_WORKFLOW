@@ -1,0 +1,6 @@
+{
+  "name": "LLM Explorer & Visualizer",
+  "description": "An attractive, interactive, and simple visual simulator showing how Large Language Models (LLMs) turn text into tokens, compute attention, and generate words.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
